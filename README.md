@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### 编程小白，热爱学习
 <!--
 **xiaotuolu/xiaotuolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
